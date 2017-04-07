@@ -8,6 +8,8 @@ public class TwoLineHelloWorld
     {
         // Write your code to print "Hello" and "World" on separate lines below
         // Hint: You can use System.out.println("your text here");
+        System.out.println("Hello");
+        System.out.println("World!");
         // Hint2: You want to use System.out.println twice. Once to print "Hello" and a second time to print "World" 
     }
 }
